@@ -35,6 +35,14 @@ function renderProfile(data) {
   document.getElementById('instagramLink').href = data.instagram;
   document.getElementById('recruitInstagram').href = data.instagram;
   document.getElementById('recruitTennisAus').href = data.tennisAustraliaProfile;
+  
+  // Add email link if available
+  if (data.email) {
+    const emailLink = document.getElementById('recruitEmail');
+    if (emailLink) {
+      emailLink.href = `mailto:${data.email}`;
+    }
+  }
 
   // Render hero stats
   const statsHtml = data.stats.map(stat => `
