@@ -1,14 +1,104 @@
 {
   "photos": [
     {
+      "src": "assets/photos/1.jpg",
+      "alt": "Tennis tournament action",
+      "title": "Tournament Action"
+    },
+    {
+      "src": "assets/photos/2.jpg",
+      "alt": "On court performance",
+      "title": "On Court"
+    },
+    {
       "src": "assets/photos/3.jpg",
       "alt": "Junior tennis tournament presentation",
       "title": "Tournament Presentation"
     },
     {
+      "src": "assets/photos/4.jpg",
+      "alt": "Tennis action shot",
+      "title": "Action Shot"
+    },
+    {
+      "src": "assets/photos/5.jpg",
+      "alt": "Match play",
+      "title": "Match Play"
+    },
+    {
+      "src": "assets/photos/6.jpg",
+      "alt": "Tennis action",
+      "title": "Playing"
+    },
+    {
+      "src": "assets/photos/7.jpg",
+      "alt": "Court action",
+      "title": "Court Action"
+    },
+    {
+      "src": "assets/photos/8.jpg",
+      "alt": "Tournament match",
+      "title": "Tournament Match"
+    },
+    {
+      "src": "assets/photos/9.jpg",
+      "alt": "Tennis performance",
+      "title": "Performance"
+    },
+    {
+      "src": "assets/photos/10.jpg",
+      "alt": "Tennis player in action",
+      "title": "Player Action"
+    },
+    {
+      "src": "assets/photos/11.jpg",
+      "alt": "On court moment",
+      "title": "On Court"
+    },
+    {
+      "src": "assets/photos/12.jpg",
+      "alt": "Tennis action",
+      "title": "Action"
+    },
+    {
+      "src": "assets/photos/13.jpg",
+      "alt": "Tournament play",
+      "title": "Tournament"
+    },
+    {
+      "src": "assets/photos/14.jpg",
+      "alt": "Tennis match",
+      "title": "Match"
+    },
+    {
+      "src": "assets/photos/15.jpg",
+      "alt": "Tennis court action",
+      "title": "Court Play"
+    },
+    {
+      "src": "assets/photos/16.jpg",
+      "alt": "Player on court",
+      "title": "Playing"
+    },
+    {
+      "src": "assets/photos/17.jpg",
+      "alt": "Tournament action",
+      "title": "Tournament"
+    },
+    {
+      "src": "assets/photos/18.jpg",
+      "alt": "Tennis action shot",
+      "title": "Action"
+    },
+    {
       "src": "assets/photos/19.jpg",
       "alt": "Tennis action on court",
       "title": "On Court Action"
+    },
+    {
+      "src": "assets/photos/20.jpg",
+      "alt": "Tennis match play",
+      "title": "Match Play"
     }
   ]
 }
