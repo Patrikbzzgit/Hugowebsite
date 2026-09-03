@@ -1,0 +1,29 @@
+{
+  "title": "UTR Progress & Tennis Timeline",
+  "timeline": [
+    {
+      "year": 2022,
+      "milestone": "Started Tennis",
+      "utr": "0.0",
+      "isChampion": false
+    },
+    {
+      "year": 2024,
+      "milestone": "First Tournament Win",
+      "utr": null,
+      "isChampion": false
+    },
+    {
+      "year": 2025,
+      "milestone": "Reached 8+ UTR",
+      "utr": "8.0",
+      "isChampion": false
+    },
+    {
+      "year": 2026,
+      "milestone": "NSW State Champion",
+      "utr": "9+",
+      "isChampion": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Championship experience",
+  "results": [
+    {
+      "id": 1,
+      "title": "NSW Teams State Champion",
+      "detail": "Gold Trophy · Ken Rosewall Cup · 2026"
+    },
+    {
+      "id": 2,
+      "title": "Newcastle J125",
+      "detail": "U14 Singles & Doubles Champion · 2026"
+    },
+    {
+      "id": 3,
+      "title": "Nepean J125",
+      "detail": "U14 Singles & Doubles Champion · Dec 2025"
+    },
+    {
+      "id": 4,
+      "title": "Wollongong J250",
+      "detail": "Doubles Champion · 2026"
+    }
+  ]
+}

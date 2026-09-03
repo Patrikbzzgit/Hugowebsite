@@ -1,0 +1,14 @@
+{
+  "photos": [
+    {
+      "src": "assets/photos/3.jpg",
+      "alt": "Junior tennis tournament presentation",
+      "title": "Tournament Presentation"
+    },
+    {
+      "src": "assets/photos/19.jpg",
+      "alt": "Tennis action on court",
+      "title": "On Court Action"
+    }
+  ]
+}

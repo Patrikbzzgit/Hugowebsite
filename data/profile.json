@@ -1,0 +1,35 @@
+{
+  "name": "Hugo",
+  "lastName": "Bihammar",
+  "location": "Sydney, Australia",
+  "title": "Australian Junior Tennis Player",
+  "tagline": "Rapid development. Competitive results. A strong determination and goal to compete in NCAA Division I tennis.",
+  "heroImage": "assets/photos/3.jpg",
+  "heroImageAlt": "Junior tennis tournament presentation",
+  "stats": [
+    {
+      "value": "9+",
+      "label": "UTR",
+      "detail": "Aug 2026"
+    },
+    {
+      "value": "2022",
+      "label": "Started Tennis",
+      "detail": ""
+    },
+    {
+      "value": "NSW",
+      "label": "State Teams Champion",
+      "detail": ""
+    }
+  ],
+  "bio": "Since starting tennis in September 2022, Hugo has progressed rapidly to a current UTR of 9+. As a former Super League soccer striker, Hugo brings speed, discipline and a striker's mentality and competitive focus to the court.",
+  "ambition": "His ambition is to earn a tennis scholarship for a Division I US college while continuing to develop both academically and as an elite tennis athlete.",
+  "interests": [
+    "Sydney, Australia",
+    "Advanced Mathematics",
+    "Business & Commerce Academic Interest"
+  ],
+  "instagram": "https://www.instagram.com/hugo.bihammar.tennis/",
+  "tennisAustraliaProfile": "https://tournaments.tennis.com.au/player-profile/8542b850-266a-4c9a-80d1-4ff5882f307c"
+}
