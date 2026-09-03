@@ -1,0 +1,20 @@
+{
+  "title": "Stroke footage",
+  "description": "Additional match and recruiting footage can be added as it becomes available.",
+  "videos": [
+    {
+      "id": "forehand",
+      "title": "Forehand",
+      "description": "Light hitting session",
+      "youtubeId": "REPLACE_WITH_YOUTUBE_VIDEO_ID",
+      "thumbnail": "assets/photos/video-thumb-1.jpg"
+    },
+    {
+      "id": "backhand",
+      "title": "Backhand",
+      "description": "Light hitting session",
+      "youtubeId": "REPLACE_WITH_YOUTUBE_VIDEO_ID",
+      "thumbnail": "assets/photos/video-thumb-2.jpg"
+    }
+  ]
+}
